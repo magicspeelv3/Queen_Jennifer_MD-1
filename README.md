@@ -1,7 +1,7 @@
-# Queen_Jennifer_MD
+# Magic-Speel-Ultra
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/AiDarkEzio/Whats-Bot/master/GojoMedia/D_E-DPC.jpg" alt="ADE" width="350" high="350"/>
+<img src="https://telegra.ph/file/c866e7c968a3249e5b1c2.jpg" alt="ADE" width="350" high="350"/>
 </p>
 
 ## If You Want Deploy This Bot or See Other Details
